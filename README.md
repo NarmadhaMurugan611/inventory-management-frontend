@@ -1,6 +1,6 @@
-## Hi there 👋 It's me Hareesh
+## Hi there 👋 It's me Narmadha
 
-Software Engineer @ Zoho Corporation
+Full Stack Developer @ Crud Operations PVT
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning DSA
@@ -29,4 +29,3 @@ Software Engineer @ Zoho Corporation
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
