@@ -2,8 +2,8 @@
 
 Full Stack Developer @ Crud Operations PVT
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
-- 🌱 I’m currently learning Python
+- 🔭 Here's my [Linkedin](https://www.linkedin.com/in/narmadha-m-6510a3275/)                                                 
+- 🌱 I’m currently Working as an full stack developer
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
